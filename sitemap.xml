@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://pa.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <image:image>
+      <image:loc>https://pa.komayo.page/img/mysterious-asian-woman-kimono-varanasi-ganges-night-street-ink-sketch,w_1024.webp</image:loc>
+      <image:title>ਭੇਤਭਰੀ ਏਸ਼ੀਆਈ ਔਰਤ ਕਿਮੋਨੋ ਪਹਿਨੀ ਵਾਰਾਣਸੀ ਵਿੱਚ ਗੰਗਾ ਕਿਨਾਰੇ ਰਾਤ ਦੀ ਗਲੀ ਵਿੱਚ - ਸਿਆਹੀ ਸਕੈਚ</image:title>
+      <image:caption>ਭੇਤਭਰੀ ਏਸ਼ੀਆਈ ਔਰਤ ਕਿਮੋਨੋ ਪਹਿਨੀ ਵਾਰਾਣਸੀ ਵਿੱਚ ਗੰਗਾ ਕਿਨਾਰੇ ਰਾਤ ਦੀ ਗਲੀ ਵਿੱਚ - ਸਿਆਹੀ ਸਕੈਚ</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://pa.komayo.page/favicon/favicon.svg</image:loc>
+      <image:title>ਕੋਮਾਯੋ</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pa.komayo.page/img/komayo_lcnjow_c_scale,w_200.webp</image:loc>
+      <image:title>ਕੋਮਾਯੋ ਸੰਖੇਪ ਚਿੱਤਰ</image:title>
+    </image:image>
   </url>
 </urlset>
